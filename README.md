@@ -1,4 +1,4 @@
-#Alternating Sums 
+# Alternating Sums 
 
 Code Signal Arcade #14 
 
